@@ -22,3 +22,7 @@ Returns all the books
 
 
 5.http://localhost:8080/Book/1  GET Single ITEM	
+
+
+6.To be Deployed in Apache Tomcat Server Version should be above 9 War file Link Given
+https://drive.google.com/open?id=1fGEjRnrEOhi4TDLuD8N23cK0Vvu1B-F_
